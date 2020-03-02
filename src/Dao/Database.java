@@ -63,7 +63,7 @@ public class Database {
             System.out.println("na dbConnec");
             System.out.println("connectie geslaagd");
         } catch (ClassNotFoundException | SQLException ex){
-            Logger.getLogger(Database.class.getName()).log(Level.SEVERE,null, ex);
+            Logger.getLogger(Database.class.getName()).log(Level.SEVERE,"lIBARIES TOEVOEGEN", ex);
         }
         return dbConnection;
     }
