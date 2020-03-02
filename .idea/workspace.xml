@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3de7ecf4-56f0-454a-a4bd-a460b23808ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/mssql_jdbc_7_4_1_jre11.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plantendatabase.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Plantendatabase.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Plantendatabase/Dao/Database.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Plantendatabase/Dao/Database.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dao/Database.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dao/Database.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +32,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="b8e11f08-d4f5-44ff-a0a3-6ace661757ed" />
   </component>
   <component name="ProjectId" id="1YRze7febf4tWt2Re0hGiUvQiwU" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -115,6 +114,10 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Aanpassingen van Feedback op fout bij connectie" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aanpassingen van Feedback op fout bij connectie" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="675" y="146" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1582922046064">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -176,16 +179,6 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Dao/Database.java</url>
-          <line>58</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Dao/Database.java</url>
-          <line>61</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Dao/Database.java</url>
           <line>44</line>
